@@ -1,6 +1,6 @@
 {
   "name": "proj4wordcounter",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Word counter tool by shahbaz khan",
   "main": "index.js",
   "type": "module",
