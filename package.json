@@ -1,6 +1,6 @@
 {
   "name": "proj4wordcounter",
-  "version": "1.1.0",
+  "version": "1.2.3",
   "description": "Word counter tool by shahbaz khan",
   "main": "index.js",
   "type": "module",
@@ -16,8 +16,7 @@
   "dependencies": {
     "chalk": "^5.2.0",
     "chalk-animation": "^2.0.3",
-    "inquirer": "^9.1.4",
-    "nodemon": "^2.0.20"
+    "inquirer": "^9.1.4"
   },
   "devDependencies": {
     "@types/chalk": "^2.2.0",
